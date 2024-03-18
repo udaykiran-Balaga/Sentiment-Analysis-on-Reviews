@@ -73,3 +73,8 @@ Implement user authentication for secure access.
 
 Expand sentiment analysis capabilities to handle different languages and sentiment types.
 
+
+Credits:
+
+This project was developed by Balaga UdayKiran as part of Sentiment Analysis Web App Tool.
+email:udayk0596@gmail.com
